@@ -1,6 +1,6 @@
 # JOIN query on performed on Production.ProductCostHistory & Production.Product
 
-## RIGHT INNER JOIN QUERY
+## RIGHT OUTER JOIN QUERY
 Join all contents of Production.Product with contents only found in both Production.ProductCostHistory AND Production.Product
 ```SQL
 SELECT TOP (15) *
