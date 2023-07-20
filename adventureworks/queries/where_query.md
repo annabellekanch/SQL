@@ -5,6 +5,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 
 ## WHERE QUERY
+Query to find RateChangeDate between 2007-2010 and then order by ascending date
 ```SQL
   SELECT *
   FROM [AdventureWorks2019].[HumanResources].[EmployeePayHistory]
