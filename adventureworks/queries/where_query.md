@@ -1,4 +1,4 @@
-# Basic Queries performed on HumanResources.EmployeePayHistory
+# WHERE & ORDER BY query performed on HumanResources.EmployeePayHistory
 
 ## Table Columns
 | Business Entity ID  | Rate Change Date | Rate  | Pay Frequency  | Modified Date  |
